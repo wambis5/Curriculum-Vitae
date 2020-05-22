@@ -6,6 +6,7 @@ def sum(a, b):
 
 sum(3+4)
 
+
 #this program Print the difference of 2 numbers
 def difference(a, b):
     print(a-b)

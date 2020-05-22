@@ -135,3 +135,5 @@ while True: # here the loops for the game play
     fps.tick(10)
 
 pygame.quit()
+
+print()

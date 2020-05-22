@@ -24,3 +24,5 @@ else:
     print()
     print('printing a password as long as you requested!')
     print(password(length)) 
+
+print()

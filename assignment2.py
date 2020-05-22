@@ -142,4 +142,4 @@ for textfile in textfiles:
     with open(textfile, 'r') as f:
         print(f.read()) #read and print the files
           
-print()
+#print()
